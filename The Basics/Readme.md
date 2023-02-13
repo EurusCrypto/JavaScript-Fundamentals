@@ -44,8 +44,9 @@ we use double forward slash // for comments. JavaScript engines will not execute
 
 5. Loops
 
-- classical For Loops usage ( for (let i = 1; i<4; i++) )
+- classical For Loops usage ( for (let i = 1; i<4; i++) ).
 - the modulus operator %. It will tell us the remainder of a division.
+- classical While loops usage.
 
 
 
