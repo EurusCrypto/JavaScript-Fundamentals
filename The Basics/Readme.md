@@ -40,6 +40,7 @@ we use double forward slash // for comments. JavaScript engines will not execute
 - we have the greater than > and less than < operators! Both > and < will evaluate to false if the operands are equal.
 - The term "operand" refers to the values on either side of the operator. For the expression 1 > 4, the operands are 1 and 4.
 -  we have the greater than or equal to >= and less than or equal to <= operators! Unlike the > and < operators, both >= and <= will evaluate to true when the operands are equal.
+-  classic else if usage.
 
 
 
