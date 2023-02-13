@@ -42,5 +42,10 @@ we use double forward slash // for comments. JavaScript engines will not execute
 -  we have the greater than or equal to >= and less than or equal to <= operators! Unlike the > and < operators, both >= and <= will evaluate to true when the operands are equal.
 -  classic else if usage.
 
+5. Loops
+
+- classical For Loops usage ( for (let i = 1; i<4; i++) )
+- the modulus operator. It will tell us the remainder of a division.
+
 
 
